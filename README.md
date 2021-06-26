@@ -4,12 +4,12 @@
 
 ## Логотип
 
-<img alt="logo" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-logo.png?raw=true" width="128"/>
+<img alt="logo" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-logo.png?raw=true" height="128"/>
 
 ## Пиктограмма
 
-<img alt="icon" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-icon.png?raw=true" width="128"/>
+<img alt="icon" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-icon.png?raw=true" height="128"/>
 
 ## QR-код
 
-<img alt="qr-code" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-qr.png?raw=true" width="256"/>
+<img alt="qr-code" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-qr.png?raw=true" height="256"/>
