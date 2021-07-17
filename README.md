@@ -2,6 +2,8 @@
 
 Социальная онлайн-платформа организации и трекинга велосипедных и других циклических видов спорта.
 
+![beCycled Deploy Status](https://img.shields.io/github/workflow/status/be-Cycled/beCycled-devops/Deploy?label=deploy)
+
 ## Логотип
 
 <img alt="logo" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-logo.png?raw=true" height="128"/>
