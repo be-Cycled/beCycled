@@ -15,3 +15,7 @@
 ## QR-код
 
 <img alt="qr-code" src="https://github.com/be-Cycled/beCycled/blob/main/assets/beCycled-qr.png?raw=true" height="256"/>
+
+---
+
+[![Waliot](https://raw.githubusercontent.com/waliot/waliot/main/assets/waliot-tech-badge.svg)](https://github.com/waliot)
