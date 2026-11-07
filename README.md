@@ -1,6 +1,6 @@
-# beCycled 🚴 🏃 🚵 🏂 ⛷️
+# beCycled 🚴🚵 
 
-Социальная онлайн-платформа организации и трекинга велосипедных и других циклических видов спорта.
+Социальная онлайн-платформа организации и трекинга велосипедных видов спорта.
 
 ![beCycled Deploy Status](https://img.shields.io/github/workflow/status/be-Cycled/beCycled-devops/Deploy?label=deploy)
 
